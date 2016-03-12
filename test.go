@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 	"strconv"
-	"./ssdb"
+	"github.com/gaspiman/ssdb"
 )
 
 func main() {
